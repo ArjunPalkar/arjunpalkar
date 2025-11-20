@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm <span style="color:#4aa3ff;">Arjun Palkar</span></h1>
 
 <p align="center">
-  <b>Java Backend Developer | Spring Boot | React | Hibernate | SQL | MongoDB</b><br>
+  <b>Java Developer | Spring Boot | React | Hibernate | SQL | MongoDB</b><br>
   Passionate about building scalable backend systems & clean architecture.
 </p>
 
