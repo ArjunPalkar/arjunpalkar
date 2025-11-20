@@ -38,21 +38,7 @@ I enjoy backend logic, API development, and transforming ideas into working appl
 
 ---
 
-## 📈 What I’m Focusing On
-- Mastering advanced Spring Boot (Security, Microservices)
-- Upgrading React skills
-- Designing production-ready backend architectures
-- Improving problem-solving & DSA
-- Clean coding, testing, and performance optimization
 
----
-
-## 📂 My Professional Interests
-✔ Backend engineering  
-✔ Full-stack development  
-✔ API design & integrations  
-✔ System design basics  
-✔ Real-world project building  
 
 ---
 
