@@ -38,10 +38,6 @@ I enjoy backend logic, API development, and transforming ideas into working appl
 
 ---
 
-
-
----
-
 ## 📫 Connect With Me
 - 🔗 **LinkedIn:** www.linkedin.com/in/arjun-palkar-b1159128  
 - 📍 Mumbai, India  
