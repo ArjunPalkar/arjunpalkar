@@ -8,9 +8,7 @@
 ---
 
 ## About Me
-Computer Engineering graduate skilled in **Java, Spring Boot, REST APIs, and Full-Stack Development**.  
-Experienced in building scalable web applications with **MongoDB, SQL**, and **AWS cloud integration**.  
-Passionate about delivering secure, high-performance solutions and contributing to dynamic software development teams.
+Computer Engineering graduate specializing in Java, Spring Boot, REST APIs, and AWS Cloud. Experienced in designing and developing scalable backend systems and full-stack applications with secure authentication, payment gateway integration, and cloud deployment. Passionate about problem-solving, learning new technologies, and building high-performance, systems. Eager to contribute to a software development team while continuously growing as a developer.
 
 ---
 
