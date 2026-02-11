@@ -12,14 +12,13 @@ Computer Engineering graduate specializing in Java, Spring Boot, REST APIs, and 
 
 ---
 
-## Technical Skills
-- **Languages:** Java  
-- **Backend:** Spring Boot, Hibernate, JDBC, Maven  
-- **Frontend:** React.js, Bootstrap  
-- **Databases:** MySQL, MongoDB  
-- **Cloud & DevOps:** AWS (S3, EC2), Docker, Git, GitHub  
-- **Tools:** IntelliJ IDEA, Eclipse, VS Code, Postman  
-- **Non-Technical Skills:** Critical & Analytical Thinking, Effective Communication  
+•	Languages: Java (OOP, Collections, Exception Handling)
+•	Backend: Spring Boot, Spring Data JPA, REST APIs,  Hibernate, JDBC, Maven
+•	Frontend: React.js, Bootstrap
+•	Databases: MySQL, MongoDB
+•	Cloud & DevOps: Docker, Git, GitHub , AWS (EC2, S3, IAM, VPC, RDS, Lambda)
+•	Tools: IntelliJ IDEA, Eclipse, VS Code, Postman
+
 
 ---
 
